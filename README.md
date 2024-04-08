@@ -1,5 +1,5 @@
-# distance-education-highered
-# MADS Capstone
+###### distance-education-highered_ MADS Capstone
+
 # Distance Learning in Higher Education: <br> Past Trends and Future Forecasts
 Team 25 EduTrends
 
