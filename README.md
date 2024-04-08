@@ -129,11 +129,11 @@ DESCRIPTION
 #### Sentiment Analysis
 
 DESCRIPTION
-edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/edu_clean.ipynb)
+edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/reddit/edu_clean.ipynb)
 
- edu_he_merge.ipynb  [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/edu_he_merge.ipynb)
+ edu_he_merge.ipynb  [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)] (https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/reddit/edu_he_merge.ipynb)
  
-hi_edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/hi_edu_clean.ipynb)
+hi_edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/reddit/hi_edu_clean.ipynb)
 
 ## License
 This project is licensed under MIT License- see the LICENSE file for details
