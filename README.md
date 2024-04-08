@@ -108,7 +108,7 @@ The subreddit notebooks and datasets can be found [here](https://drive.google.co
 
 ## Notebook Descriptions
 #### Tabuluar Dataset Preparation
-This notebook [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)] (https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/NCES_IPEDS_Dataset.ipynb) merges yearly IPEDS survey data into one file with necessary pre-processing. Four distinct data files (.csv) are created:
+This notebook [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/NCES_IPEDS_Dataset.ipynb) merges yearly IPEDS survey data into one file with necessary pre-processing. Four distinct data files (.csv) are created:
 *age_gen_by_inst_18_22.csv: 2018-2022 age, gender, attendance status, and level of student merged with institutional variables of interest. (Note: This is all institution students- not DE specifically.)
 * race_gen_by_inst_18_22.csv: 2018-2022 race/ethnicity gender, attendance status, and level of student merged with institutional variables. (Note: This is all institution students- not DE specifically.)
 * dist_enrollment18_22.csv: 2018-2022 fall DE enrollment merged with institutional variables of interest.
