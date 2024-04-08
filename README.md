@@ -102,3 +102,46 @@ BLS datasets can be accessed [here](https://drive.google.com/drive/folders/1TioS
 3. [The-Eye Subreddit Archives](https://the-eye.eu/redarcs/) - Through The-Eye subreddit archives we collected data from the following subreddits:
 - **r/education** - This subreddit archive has over 100 million datapoints from 2005-2022. We combined the comments with to each post and refined the dates to 2018-2022. Additionally, we performed sentiment analysis on each comment and post, as well as performing an emotional tone score.
 - **r/highereducation** - This subreddit archive has over 50 million datapoints from 2012-2022. We combined the comments with to each post and refined the dates to 2018-2022. Additionally, we performed sentiment analysis on each comment and post, as well as performing an emotional tone score.
+
+The subreddit notebooks and datasets can be found [here](https://drive.google.com/file/d/1QoLfg6w4E-nSlG1SyqUnqVBjHA1YIigr/view?usp=share_link)
+
+
+## Notebook Descriptions
+#### Tabuluar Dataset Preparation
+This notebook [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]([URL_TO_YOUR_FOLDER](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/NCES_IPEDS_Dataset.ipynb)) merges yearly IPEDS survey data into one file with necessary pre-processing. Four distinct data files (.csv) are created:
+*age_gen_by_inst_18_22.csv: 2018-2022 age, gender, attendance status, and level of student merged with institutional variables of interest. (Note: This is all institution students- not DE specifically.)
+* race_gen_by_inst_18_22.csv: 2018-2022 race/ethnicity gender, attendance status, and level of student merged with institutional variables. (Note: This is all institution students- not DE specifically.)
+* dist_enrollment18_22.csv: 2018-2022 fall DE enrollment merged with institutional variables of interest.
+* depprogramsoffered18_22.csv: 2018-2022 completions survey data merged with institutional variables of interest. 
+
+#### Exploratory Data Analysis
+We conducted a variety of EDA on our NCES IPEDS datasets filtering deeper into DE subcategories (e.g. private vs public institutions, in-state vs. out-of-state students). You can find EDA in [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/EDA.ipynb).
+
+#### Time Forecasting Models
+DESCRIPTION
+
+ Creating model dataset:
+ [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/Create_Model_Dataset.ipynb)
+
+ 
+ [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](URL_TO_YOUR_FOLDER)
+
+#### Sentiment Analysis
+
+DESCRIPTION
+edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/edu_clean.ipynb)
+
+ edu_he_merge.ipynb  [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/edu_he_merge.ipynb)
+ 
+hi_edu_clean.ipynb [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/Code%20Notebooks/reddit/hi_edu_clean.ipynb)
+
+## License
+This project is licensed under MIT License- see the LICENSE file for details
+
+## Authors
+Katy Kibbey<br>
+Jeff Park<br>
+Jeffrey Roscyzk
+
+## Acknowledgements
+
