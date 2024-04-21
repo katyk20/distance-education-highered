@@ -73,7 +73,7 @@ drive.mount('/content/drive')
 ## Data Sources
 1. [National Center for Education Statistics (NCES) Integrated PostSecondary Education Data System (IPEDS)](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?goToReportId=7&sid=91e3bacc-b5ed-4fd5-b314-96ea78985bdd&rtid=1)
 
-IPEDS  is a system of survey components that collects data from all institutions that provide postsecondary education and are eligible to receive Title IV funding across the United States and other U.S. jurisdictions. IPEDS begain tracking DE in 2021-2013 and current collects DE data in four survey components:
+IPEDS  is a system of survey components that collects data from all institutions that provide postsecondary education and are eligible to receive Title IV funding across the United States and other U.S. jurisdictions. IPEDS begain tracking DE in 2021-2013 and currently collects DE data in four survey components:
 * ***Institutional Characteristics***: Records institutions offering DE courses and/or programs for undergraduate and graduate students and whether all programs are offered exclusively via DE.  <br>
 * ***12-Month Enrollment***:number of students enrolled in DE courses over 12-month period.<br>
 * ***Fall Enrollment***: Captures the number of students enrolled in DE courses in the fall term and, of the students enrolled exclusively via DE, by degree level and geographic location.<br>
