@@ -82,11 +82,11 @@ IPEDS  is a system of survey components that collects data from all institutions
 The table below shows specific NCES IPEDS data surveys (and dictionaries) used in this project:
 Years | Survey | Title| Files
 --- | --- | --- | ---
-2018, 2019, 2020, 2021, 2022 |Institutional Characteristics | Directory Information | [Link](https://drive.google.com/drive/folders/1NrNxFucUF7sCDtOA2jhnsagqmNo6VpKa?usp=drive_link)
-2018, 2019, 2020, 2021, 2022 |Fall Enrollment| Race/ethnicity, gender, attendance status, and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/1RC1T14lLjWJ1ZRXSDybccV7XKtc7Xbjc?usp=drive_link)
-2018, 2019, 2020, 2021, 2022|Fall Enrollment| Age category, gender, attendance status, and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/12aRk50aV3HM1vpqOq5xl_TffNeRiVuAf?usp=drive_link)
-2018, 2019, 2020, 2021, 20222 |Fall Enrollment| 	Distance education status and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/1xqpvpyMAU3S_EePQY-7xKcXCuuKvU6Du?usp=drive_link)
-2018, 2019, 2020, 2021, 2022 |Completions | 	Number of programs offered and number of programs offered via distance education, by award level: July 1, YEAR to June 30, YEAR| [Link](https://drive.google.com/drive/folders/1HEIRoYDmd8-dsfApnnjX7zll8G6jRmMO?usp=drive_link)
+2012-022 |Institutional Characteristics | Directory Information | [Link](https://drive.google.com/drive/folders/1NrNxFucUF7sCDtOA2jhnsagqmNo6VpKa?usp=drive_link)
+2012-2022 |Fall Enrollment| Race/ethnicity, gender, attendance status, and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/1RC1T14lLjWJ1ZRXSDybccV7XKtc7Xbjc?usp=drive_link)
+2012-2022|Fall Enrollment| Age category, gender, attendance status, and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/12aRk50aV3HM1vpqOq5xl_TffNeRiVuAf?usp=drive_link)
+2012-2022 |Fall Enrollment| 	Distance education status and level of student: Fall YEAR | [Link](https://drive.google.com/drive/folders/1xqpvpyMAU3S_EePQY-7xKcXCuuKvU6Du?usp=drive_link)
+2012-2022 |Completions | 	Number of programs offered and number of programs offered via distance education, by award level: July 1, YEAR to June 30, YEAR| [Link](https://drive.google.com/drive/folders/1HEIRoYDmd8-dsfApnnjX7zll8G6jRmMO?usp=drive_link)
 
 Additionally, the [CIP SOC Crosswalk](https://docs.google.com/spreadsheets/d/1AmHnURaSmVWcB8-CUC7G9naCyCCRuTjS/edit?usp=drive_link&ouid=110253943311085891145&rtpof=true&sd=true) was retrieved. The crosswalk matches 6-digit CIP Codes from the 2020 Classification of Instructional Programs (CIP) with 6-digit detailed descriptions from the 2018 Standard Occupational Classification (SOC) used in Bureau of Labor and Statistics Occupational Projections datasets. The purpose of the crosswalk is to match postsecondary programs of study that provide graduates with specific skills and knowledge to occupations requiring those skills or knowledge to be successful (NCES IPEDS, 2024. 
 
