@@ -7,7 +7,7 @@ Team 25 EduTrends
 [Getting Started](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started)<br>
 [Project Datasets](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
 [Data Sources](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
-[Project Notebook Descriptions](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
+[Project Notebook Descriptions](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#notebook-descriptions) <br>
 
 
 ## Overview
