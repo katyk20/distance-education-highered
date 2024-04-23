@@ -3,11 +3,11 @@
 # Distance Learning in Higher Education: <br> Past Trends and Future Forecasts
 Team 25 EduTrends
 
-[Overview](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/README.md#overview) <br>
-[Getting Started](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/README.md#getting-started)<br>
-[Project Datasets](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/README.md#project-datasets) <br>
-[Data Sources](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/README.md#data-sources) <br>
-[Project Notebook Descriptions](https://github.com/katyk20/DistanceLearning_Capstone/blob/main/README.md#notebooks) <br>
+[Overview](https://github.com/katyk20/distance-education-highered#overview) <br>
+[Getting Started](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started)<br>
+[Project Datasets](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
+[Data Sources](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
+[Project Notebook Descriptions](https://github.com/katyk20/distance-education-highered?tab=readme-ov-file#getting-started) <br>
 
 
 ## Overview
