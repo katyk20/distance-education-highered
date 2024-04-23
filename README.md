@@ -127,7 +127,7 @@ We imported, clean, prepped, and performed sentiment and emotional tone analysis
 #### Emotion Tone Distribution by Year [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://drive.google.com/file/d/19D6Oz_vbFQi90Zp1pdXS9iH2xXavOdK9/view?usp=sharing)
 Based on the combined subreddit data we plotted the emotional tone distribution by the years 2018-2022.
 
-#### Time Forecasting Models - TBD [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](URL_TO_YOUR_FOLDER)
+#### Time Forecasting Models - TBD [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/katyk20/distance-education-highered/blob/main/Notebooks/TimeForecasting_ExpSmooth(Univariate).ipynb))
 
 #### Topic Modeling - TBD [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](URL_TO_YOUR_FOLDER)
 
@@ -142,4 +142,4 @@ Jeff Park<br>
 Jeffrey Roscyzk
 
 ## Acknowledgements
-TBD
+Thank you to Dr.Elle O'Brien, Team25 Advisor Winston Featherly-Bean, and our fellow MADs Capstone peers for your resources and guidance.
