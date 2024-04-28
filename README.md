@@ -24,7 +24,7 @@ Understanding trends in distance education is crucial for higher education insti
 - Time Forecasting: Leveraging our findings, we'll attempt to forecast future directions in distance learning, offering valuable insights for strategic decision-making.
 
 ### Read our:
-:page_facing_up: [Final report](https://docs.google.com/document/d/1hAFd8SASDJH0lxrD4ig_5FWExbkLXo5Cbv4rfN_gOLE/edit?usp=drive_link)
+:page_facing_up: [Final report](https://docs.google.com/presentation/d/1GDHVCTREt4IRprlqnnNH0sIoCnLUhJFp/edit?usp=drive_link&ouid=110253943311085891145&rtpof=true&sd=true)
 
 :pen: [Medium Blog Post -"Article Title TBD"](https://medium.com/@katy.kibbey/distance-education-title-c188a963fb9b)
 
