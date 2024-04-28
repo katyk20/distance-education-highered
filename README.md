@@ -26,7 +26,7 @@ Understanding trends in distance education is crucial for higher education insti
 ### Read our:
 :page_facing_up: [Final report](https://drive.google.com/file/d/1t6MzLgwzvPwww5ZhcVJT0tzES7pBIh3o/view?usp=drive_link)
 
-:pen: [Medium Blog Post -"Article Title TBD"](https://medium.com/@katy.kibbey/distance-education-title-c188a963fb9b)
+:pen: [Medium Blog Post] (https://medium.com/@katy.kibbey/6f7a26c5aabc)
 
 :pushpin: [Project poster](https://docs.google.com/presentation/d/1GDHVCTREt4IRprlqnnNH0sIoCnLUhJFp/edit?usp=drive_link&ouid=110253943311085891145&rtpof=true&sd=true)
 
